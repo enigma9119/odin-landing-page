@@ -120,3 +120,23 @@ footer {
 .dish span {
   text-align: center;
 }
+
+.quote {
+  height: 400px;
+  background-color: #e5e7eb;
+  flex-direction: column;
+  padding: 8px 20vw;
+}
+
+.quote p {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.author {
+  font-size: 24px;
+  font-weight: bold;
+  align-self: flex-end;
+}
